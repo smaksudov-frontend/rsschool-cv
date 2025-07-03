@@ -1,53 +1,52 @@
 # Maksudov Sergey
 
-**Телефон:** [+99897777777](tel:+99897777777)  
+**Phone:** [+99897777777](tel:+99897777777)  
 **Email:** [123@gmail.com](mailto:123@gmail.com)  
 **Telegram:** [Maksudov-Sergey](https://t.me/Maksudov-Sergey)
 
 ---
 
-## Обо мне
+## About Me
 
-Я — 37-летний фронтенд-разработчик‑самоучка, для которого программирование — это увлечение и творческий выход. Освоив основы HTML и CSS, я сейчас активно развиваю навыки JavaScript, чтобы создавать более интерактивные и динамичные веб-интерфейсы.
+I am a 37-year-old self-taught front-end developer for whom programming is both a passion and a creative outlet. Having mastered the fundamentals of HTML and CSS, I am now actively developing my JavaScript skills to build more interactive and dynamic web interfaces.
 
-## Навыки
+## Skills
 
-- **HTML и CSS:** семантическая и доступная разметка; Flexbox, Grid-макеты и адаптивный дизайн.
-- **JavaScript (базовый уровень):** работа с DOM, обработка событий, простые API-запросы; знаком с ES6+, асинхронностью и модулями.
+- **HTML & CSS:** semantic and accessible markup; Flexbox, Grid layouts, and responsive design.  
+- **JavaScript (basic level):** DOM manipulation, event handling, simple API requests; familiar with ES6+, asynchronous programming, and modules.
 
-## Образование
+## Education
 
-- **2012** — Toshkent Davlat Texnika Universiteti, факультет теплоэлектростанций
+- **2012** — Tashkent State Technical University, Faculty of Thermal Power Plants
 
-## Опыт
+## Experience
 
-Опыт работы пока небольшой, продолжаю обучение и накапливаю практические навыки.
+My work experience is currently very limited, and I continue to learn and gain practical skills.
 
-## Мои цели
+## Goals
 
-- Углубить знания JavaScript, создавая интерактивные компоненты и одностраничные приложения.
-- Освоить современный фреймворк (React, Vue или аналогичный) для повышения продуктивности.
-- Поработать в команде над реальными задачами.
+- Deepen my JavaScript knowledge by creating interactive components and single-page applications.  
+- Master a modern framework (React, Vue, or similar) to boost productivity.  
+- Work in a team on real-world projects.
 
-  ## Интересы
+## Interests
 
-Когда я не пишу код, играю на Nintendo Switch .
+When I'm not coding, I play on my Nintendo Switch.
 
-## Пример HTML-кода
+## Sample HTML Code
 
 ```html
 <picture>
   <source media="(max-width: 767px)" srcset="img/cover-transfer-desktop-mobile.png 1x, img/cover-transfer-desktop-mobile@2x.png 2x">
-  <img class="card-news__image" src="./img/cover-transfer-desktop.png" srcset="./img/cover-transfer-desktop@2x.png 2x" width="340" height="240"
-    alt="Иллюстрация статьи">
+  <img class="card-news__image" src="./img/cover-transfer-desktop.png" srcset="./img/cover-transfer-desktop@2x.png 2x" width="340" height="240" alt="Article illustration">
 </picture>
 ```
 
-## Почему я программирую
+## Why I Code
 
-Для меня разработка — это возможность воплотить идею в реальность. Мне нравится превращать дизайн в живой интерфейс: решать нестандартные задачи верстки, добавлять плавные анимации и получать удовольствие.
+For me, development is an opportunity to bring an idea to life. I enjoy turning design into a live interface: solving unique layout challenges, adding smooth animations, and getting satisfaction from every new solution.
 
-## Языки
+## Languages
 
-- Русский — родной
-- Английский — уровень A1 (изучаю с помощью Duolingo)
+- Russian — Native  
+- English — Level A1 (learning with Duolingo)
