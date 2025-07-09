@@ -1,1 +1,1 @@
-https://smaksudov-frontend.github.io/rsschool-cv/cv
+https://smaksudov-frontend.github.io/rsschool-cv/
