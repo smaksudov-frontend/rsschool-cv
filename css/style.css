@@ -7,6 +7,15 @@
 
 /* Blocks */
 /* ------------------------------------ */
+@import "blocks/header.css";
+@import "blocks/about.css";
+@import "blocks/contacts.css";
+@import "blocks/skills.css";
+@import "blocks/code-example.css";
+@import "blocks/projects.css";
+@import "blocks/education.css";
+@import "blocks/languages.css";
+@import "blocks/footer.css";
 
 
 
