@@ -3,10 +3,92 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>rsschool-CV</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>CV</title>
 </head>
 <body>
-  <h1 class="title">rsschool-CV</h1>
+  <div class="container">
+    <header class="header">
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item"><a class="nav__item-link" href="#about">About Me</a></li>
+          <li class="nav__item"><a class="nav__item-link" href="#skills">Skills</a></li>
+          <li class="nav__item"><a class="nav__item-link" href="#projects">Projects</a></li>
+          <li class="nav__item" ><a class="nav__item-link" href="#education">Education</a></li>
+          <li class="nav__item" ><a class="nav__item-link" href="#languages">Languages</a></li>
+        </ul>
+      </nav>
+      <h1 class="title">Maksudov Sergey</h1>
+      <img class="photo" src="./assets/img/avatar.jpg" height="400" width="400" alt="Photo" >
+    </header>
+
+    <main>
+      <section id="about">
+        <h2 class="about__section-title">About Me</h2>
+        <p class="about__text">I am a junior front-end developer with knowledge of HTML, CSS, SCSS, Git &amp; GitHub, and basic JavaScript. Programming is both my passion and my way of self-expression.</p>
+      </section>
+
+      <section class="contacts" id="contacts">
+        <h2 class="contacts__section-title">Contact</h2>
+        <ul class="contacts__list">
+          <li class="contacts__item">Email: <a class="contacts__link" href="mailto:smaksudov@outlook.com">Write mail</a></li>
+          <li class="contacts__item">Telegram: <a class="contacts__link" href="https://t.me/smaksudov" target="_blank">@smaksudov</a></li>
+          <li class="contacts__item">GitHub: <a class="contacts__link" href="https://github.com/smaksudov-frontend" target="_blank">Maksudov Sergey</a></li>
+        </ul>
+      </section>
+
+      <section class="skills" id="skills">
+        <h2 class="skills__section-title">Skills</h2>
+        <ul class="skills__list">
+          <li class="skills__item">HTML5 &amp; Semantic Markup</li>
+          <li class="skills__item">CSS3, Flexbox, Grid</li>
+          <li class="skills__item">SCSS</li>
+          <li class="skills__item">Git &amp; GitHub</li>
+          <li class="skills__item">JavaScript (ES6+)</li>
+        </ul>
+      </section>
+
+      <section class="code-example">
+        <h2 class="code-example__section-title">Code Example</h2>
+        <pre class="code-example__code">
+          <code>&lt;picture&gt;
+          &lt;source media=&quot;(max-width: 767px)&quot; srcset=&quot;img/cover-transfer-desktop-mobile.png 1x, img/cover-transfer-desktop-mobile@2x.png 2x&quot;&gt;
+          &lt;img class=&quot;card-news__image&quot; src=&quot;./img/cover-transfer-desktop.png&quot; srcset=&quot;./img/cover-transfer-desktop@2x.png 2x&quot; width=&quot;340&quot; height=&quot;240&quot; alt=&quot;Article illustration&quot;&gt;
+          &lt;/picture&gt;
+        </code></pre>
+      </section>
+
+      <section class="projects" id="projects">
+        <h2 class="projects__section-title">Training Projects</h2>
+        <ul class="projects__list">
+          <li class="projects__item"> <img class="projects__image" src="./assets/img/project.jpg" height="400" width="400" alt="Project"></li>
+          <li class="projects__item"> <img class="projects__image" src="./assets/img/project.jpg" height="400" width="400" alt="Project"></li>
+        </ul>
+      </section>
+
+      <section id="education">
+        <h2 class="education__section-title">Education</h2>
+        <p class="education__text">Toshkent Davlat texnika universiteti 2006-2012</p>
+        <p class="education__text">Web Developer Profession in PHP 3.0 (Skillbox) 2025</p>
+      </section>
+
+      <section id="languages">
+        <h2 class="languages__section-title">Languages</h2>
+        <p class="languages__text">Russian:Native speaker</p>
+        <p class="languages__text">English:Level A1 (learning with Duolingo) </p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-info">
+        <a class="footer-logo" href="https://github.com/smaksudov-frontend" target="_blank"><img src="./assets/img/github.svg" alt="GitHub" height="200" width="200"></a>
+        <span class="footer-year">2025</span>
+        <a class="footer-logo" href="https://rs.school/courses/javascript-ru" target="_blank"><img src="./assets/img/rs-school-logo.svg" alt="RS School" height="200" width="200" class="footer-logo"></a>
+      </div>
+
+    </footer>
+  </div>
 </body>
 </html>
+
