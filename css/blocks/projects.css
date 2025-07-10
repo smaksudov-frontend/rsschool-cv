@@ -1,0 +1,14 @@
+.projects__section-title {
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.projects__list{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  justify-items: center;
+}
