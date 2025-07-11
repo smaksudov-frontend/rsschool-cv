@@ -9,10 +9,18 @@
   margin:0 0 20px 0 ;
 }
 
-.languages__text {
+.languages__list{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.languages__item {
   font-size: 20px;
   line-height: 25px;
-  max-width: 800px;
-  margin: 0 auto 10px;
+
   
 }
