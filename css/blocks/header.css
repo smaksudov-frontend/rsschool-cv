@@ -1,9 +1,18 @@
+.header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 20px;
+}
+
 .header__nav-list {
   display: flex;
   justify-content: space-between;
   align-items: center;
   list-style-type: none;
   gap: 10px;
+  padding: 0;
+  padding: 0;
+  flex-wrap: wrap;
 }
 
 .header__nav-item{
@@ -14,5 +23,11 @@
   background-color: #476BF0;
   border-radius: 15px;
   padding: 10px 20px;
+}
 
+
+.header__nav-item:hover {
+  background-color: #ffffff;
+  color: #476BF0;
+  transition: all 0.3s ease-in-out;
 }

@@ -1,7 +1,15 @@
-.footer-info {
+.footer__info {
+  background-color: #f0f0f0;
+  border-radius: 20px;
   display: flex;
   align-items: flex-end;
   padding: 20px;
-  justify-content: center;
+  justify-content: space-between;
   gap: 120px;
+}
+
+.footer__year{
+  font-size: 20px;
+  line-height: 25px;
+  color: #476BF0;
 }
