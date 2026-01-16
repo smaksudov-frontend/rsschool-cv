@@ -1,0 +1,26 @@
+.languages__container {
+  margin: 0 0 40px 0;
+}
+
+.languages__section-title {
+   font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  margin:0 0 20px 0 ;
+}
+
+.languages__list{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.languages__item {
+  font-size: 20px;
+  line-height: 25px;
+
+  
+}
