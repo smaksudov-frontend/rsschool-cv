@@ -1,0 +1,25 @@
+.education__container {
+  margin: 0 0 40px 0;
+}
+
+.education__section-title {
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+.education__list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.education__item {
+  font-size: 20px;
+  line-height: 25px;
+  color: #476bf0;
+}
